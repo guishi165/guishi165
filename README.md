@@ -1,7 +1,7 @@
-hola, soy guishito
-soy un pequeño youtuber q hace videos de gaming
-tmbn me gusta programar
-wow leiste esto :O
+ - hola, soy guishito
+ - soy un pequeño youtuber q hace videos de gaming
+ - tmbn me gusta programar
+ - wow leiste esto :O
 
 <!---
 Guishi165/Guishi165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
