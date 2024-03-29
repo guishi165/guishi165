@@ -1,5 +1,5 @@
  - hola, soy guishito
- - soy un pequeño youtuber q hace videos de gaming
+ - soy un pequeño youtuber q hace videos random
  - tmbn me gusta programar
  - wow leiste esto :O
 
