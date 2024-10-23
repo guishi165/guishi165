@@ -1,5 +1,5 @@
  - hola, soy guishi
- - me gusta programar (pero soy muy vago)
+ - me gusta programar (pero soy vago)
  - wow leiste esto :O
 
 <!---
